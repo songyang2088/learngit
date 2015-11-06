@@ -6,4 +6,8 @@ Git tracks changes of files.
 git is a good tools
 又修改了
 Git tracks changes of.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
